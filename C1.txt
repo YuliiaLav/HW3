@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Text from C1
 Added on step 21
 
+=======
+Text from C1 (from MainUser2Repo)
+Added on stage 24
+>>>>>>> b9bb4177ac21b6068ffdc2124b683f0c6c6b6cb5
